@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="myList">
+        <item>retrofit网络请求,英译中</item>
+        <item>RxJava使用示例</item>
+        <item>CoordinatorLayout+CollapsingToolbarLayout打造酷炫效果</item>
+        <item>viewPager选项卡+带圆点的滑屏</item>
+        <item>recyclerView侧滑删除</item>
+        <item>定制版toolbar</item>
+        <item>socket</item>
+        <item>WebView浏览网页</item>
+        <item>登录注册</item>
+        <item>仿google原生mvp模式</item>
+    </array>
+</resources>

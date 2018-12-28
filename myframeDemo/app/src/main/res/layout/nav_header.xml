@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:background="#0E73BA"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <!--android:theme="@style/ThemeOverlay.AppCompat.Dark">-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="菜单"
+        android:textSize="10dp"
+        android:textColor="#ffffff"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+</FrameLayout>
